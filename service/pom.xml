@@ -11,6 +11,9 @@
     <modules>
         <module>monitor-client</module>
         <module>monitor-server</module>
+        <module>transactional-a</module>
+        <module>transactional-b</module>
+        <module>transactional-event</module>
     </modules>
 
     <parent>
