@@ -1,4 +1,4 @@
-package com.tongyuan;
+package com.tongyuan.event;
 
 import java.util.UUID;
 

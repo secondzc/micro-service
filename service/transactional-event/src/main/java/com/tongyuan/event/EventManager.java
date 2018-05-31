@@ -1,4 +1,4 @@
-package com.tongyuan;
+package com.tongyuan.event;
 
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.jdbc.core.JdbcTemplate;

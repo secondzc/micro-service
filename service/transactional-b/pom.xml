@@ -11,5 +11,13 @@
 
     <artifactId>transactional-b</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.tongyuan</groupId>
+            <artifactId>transactional-event</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>

@@ -1,4 +1,4 @@
-package com.tongyuan;
+package com.tongyuan.event;
 
 /**
  * Created by zhangcy on 2018/5/31
